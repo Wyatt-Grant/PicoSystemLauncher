@@ -13,6 +13,6 @@ How to build
 	
 - Create a build folder and build the examples
 	
-	`mkdir build && cd build```
-	cmake ..```
-	make`
+	`mkdir build && cd build`
+	`cmake ..`
+	`make`
