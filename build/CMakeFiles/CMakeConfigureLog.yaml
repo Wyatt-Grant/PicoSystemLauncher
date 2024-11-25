@@ -8,7 +8,7 @@ events:
       - "CMakeLists.txt:22 (project)"
     message: |
       The target system is: PICO -  - cortex-m0plus
-      The host system is: Darwin - 24.0.0 - arm64
+      The host system is: Darwin - 24.1.0 - arm64
   -
     kind: "message-v1"
     backtrace:

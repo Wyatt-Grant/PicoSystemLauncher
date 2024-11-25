@@ -1419,9 +1419,9 @@ Discarded input sections
  .comment       0x0000000000000000       0x4a CMakeFiles/PicoSystemLauncher.dir/Users/wyatt/Dev/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
  .ARM.attributes
                 0x0000000000000000       0x2c CMakeFiles/PicoSystemLauncher.dir/Users/wyatt/Dev/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
- .text          0x0000000000000000        0x0 /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccAdUUtj.o
- .data          0x0000000000000000        0x0 /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccAdUUtj.o
- .bss           0x0000000000000000        0x0 /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccAdUUtj.o
+ .text          0x0000000000000000        0x0 /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccJEftqh.o
+ .data          0x0000000000000000        0x0 /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccJEftqh.o
+ .bss           0x0000000000000000        0x0 /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccJEftqh.o
  .text          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.10/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libstdc++.a(functexcept.o)
  .data          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.10/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libstdc++.a(functexcept.o)
  .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.10/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libstdc++.a(functexcept.o)
@@ -5458,7 +5458,7 @@ LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.10/gcc/bin/../lib/gcc/arm-
 .boot2          0x0000000010000000      0x100
                 0x0000000010000000                __boot2_start__ = .
  *(.boot2)
- .boot2         0x0000000010000000      0x100 /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccAdUUtj.o
+ .boot2         0x0000000010000000      0x100 /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccJEftqh.o
                 0x0000000010000100                __boot2_end__ = .
                 0x0000000000000001                ASSERT (((__boot2_end__ - __boot2_start__) == 0x100), ERROR: Pico second stage bootloader must be 256 bytes in size)
 
@@ -8471,7 +8471,7 @@ LOAD CMakeFiles/PicoSystemLauncher.dir/Users/wyatt/Dev/pico-sdk/src/rp2_common/h
 LOAD CMakeFiles/PicoSystemLauncher.dir/Users/wyatt/Dev/pico-sdk/src/rp2_common/hardware_interp/interp.c.obj
 LOAD CMakeFiles/PicoSystemLauncher.dir/Users/wyatt/Dev/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj
 LOAD CMakeFiles/PicoSystemLauncher.dir/Users/wyatt/Dev/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
-LOAD /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccAdUUtj.o
+LOAD /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccJEftqh.o
 LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.10/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libstdc++.a
 LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.10/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libm.a
 START GROUP
@@ -8595,7 +8595,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x0000000000000852       0x2c CMakeFiles/PicoSystemLauncher.dir/Users/wyatt/Dev/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj
  .ARM.attributes
-                0x000000000000087e       0x22 /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccAdUUtj.o
+                0x000000000000087e       0x22 /var/folders/3c/kzcmk4f11wl5lz4z7pyywvs00000gn/T//ccJEftqh.o
  .ARM.attributes
                 0x00000000000008a0       0x2c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.10/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libstdc++.a(functexcept.o)
  .ARM.attributes

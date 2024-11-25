@@ -493,7 +493,7 @@ DOXYGEN_DOT_EXECUTABLE-ADVANCED:INTERNAL=1
 DOXYGEN_EXECUTABLE-ADVANCED:INTERNAL=1
 FAMILY_MCUS:INTERNAL=RP2040
 //Details about finding Python3
-FIND_PACKAGE_MESSAGE_DETAILS_Python3:INTERNAL=[/opt/homebrew/Frameworks/Python.framework/Versions/3.11/bin/python3.11][cfound components: Interpreter ][v3.11.5()]
+FIND_PACKAGE_MESSAGE_DETAILS_Python3:INTERNAL=[/opt/homebrew/Frameworks/Python.framework/Versions/3.13/bin/python3.13][cfound components: Interpreter ][v3.13.0()]
 PICO_BOOT_STAGE2_DIR:INTERNAL=/Users/wyatt/Dev/pico-sdk/src/rp2_common/boot_stage2
 PICO_CMAKE_PRELOAD_PLATFORM_DIR:INTERNAL=/Users/wyatt/Dev/pico-sdk/cmake/preload/platforms
 PICO_CMAKE_PRELOAD_PLATFORM_FILE:INTERNAL=/Users/wyatt/Dev/pico-sdk/cmake/preload/platforms/rp2040.cmake
@@ -511,10 +511,10 @@ _Python3_Compiler_REASON_FAILURE:INTERNAL=
 //Development reason failure
 _Python3_Development_REASON_FAILURE:INTERNAL=
 //Path to a program.
-_Python3_EXECUTABLE:INTERNAL=/opt/homebrew/Frameworks/Python.framework/Versions/3.11/bin/python3.11
+_Python3_EXECUTABLE:INTERNAL=/opt/homebrew/Frameworks/Python.framework/Versions/3.13/bin/python3.13
 //Python3 Properties
-_Python3_INTERPRETER_PROPERTIES:INTERNAL=Python;3;11;5;64;;;abi3;/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11;/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11/lib/python3.11;/opt/homebrew/lib/python3.11/site-packages;/opt/homebrew/lib/python3.11/site-packages
-_Python3_INTERPRETER_SIGNATURE:INTERNAL=91fa6b41055f536ea0963b4ef9ef5b99
+_Python3_INTERPRETER_PROPERTIES:INTERNAL=Python;3;13;0;64;;;abi3;/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/lib/python3.13;/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/lib/python3.13;/opt/homebrew/lib/python3.13/site-packages;/opt/homebrew/lib/python3.13/site-packages
+_Python3_INTERPRETER_SIGNATURE:INTERNAL=7a1f714cc7198cb3c0d06752fabdd0bf
 //NumPy reason failure
 _Python3_NumPy_REASON_FAILURE:INTERNAL=
 

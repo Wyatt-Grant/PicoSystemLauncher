@@ -70,7 +70,7 @@ pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_as
 
 pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S: pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/wyatt/Dev/PicoSystemLauncher/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating bs2_default_padded_checksummed.S"
-	cd /Users/wyatt/Dev/PicoSystemLauncher/build/pico-sdk/src/rp2_common/boot_stage2 && /opt/homebrew/Frameworks/Python.framework/Versions/3.11/bin/python3.11 /Users/wyatt/Dev/pico-sdk/src/rp2_common/boot_stage2/pad_checksum -s 0xffffffff /Users/wyatt/Dev/PicoSystemLauncher/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin /Users/wyatt/Dev/PicoSystemLauncher/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
+	cd /Users/wyatt/Dev/PicoSystemLauncher/build/pico-sdk/src/rp2_common/boot_stage2 && /opt/homebrew/Frameworks/Python.framework/Versions/3.13/bin/python3.13 /Users/wyatt/Dev/pico-sdk/src/rp2_common/boot_stage2/pad_checksum -s 0xffffffff /Users/wyatt/Dev/PicoSystemLauncher/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin /Users/wyatt/Dev/PicoSystemLauncher/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 
 pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin: pico-sdk/src/rp2_common/boot_stage2/bs2_default.elf
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/wyatt/Dev/PicoSystemLauncher/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating bs2_default.bin"
