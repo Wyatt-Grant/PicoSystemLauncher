@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/wyatt/Dev/picosystem/**",
+                "/Users/wyatt/Dev/pico-sdk/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64",
+            "compilerPath": "/opt/homebrew/bin/arm-none-eabi-g++",
+            "compilerArgs": [
+                "\"${workspaceFolder}/**\",",
+                "\"/Users/wyatt/Dev/picosystem/**\",",
+                "\"/Users/wyatt/Dev/pico-sdk/**\""
+            ]
+        }
+    ],
+    "version": 4
+}
