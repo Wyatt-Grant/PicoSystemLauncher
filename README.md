@@ -1,7 +1,7 @@
 Pico Systenm Launcher
 
 - A frontend for launching pico-system games. games are: pico-man, word guesser, hollow brook, mini golf, blocks, and chain-breaker.
-
+![Screenshots](https://github.com/Wyatt-Grant/PicoSystemLauncher/blob/main/screenshots.png?raw=true)
 
 You should also have the Pico SDK and PicoSystem SDK's in directories alongside this one:
 
